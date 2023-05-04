@@ -151,6 +151,3 @@ by: b i y i v i
         ddos()
     except KeyboardInterrupt:
         print(Fore.RED+Style.BRIGHT+"\nDetenido por el usuario"+Fore.RESET)
-
-
-Revamp()
